@@ -49,16 +49,16 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/swapnil kundu" target="_blank">
+  <a href="https://www.linkedin.com/in/swapnil-kundu-474553230/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/swapnil kundu argha" target="_blank">
+  <a href="https://www.facebook.com/swapnil.kundu.90/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/swapnil2441139" target="_blank">
+  <a href="https://www.instagram.com/swapnil2441139" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/c/cube lovers" target="_blank">
+  <a href="https://www.youtube.com/@cubelovers2113" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="YouTube" />
   </a>
 </div>
@@ -80,13 +80,12 @@
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sick-of-laptop&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub streak graph" />
 </div>
 
 <br>
-
-
 
 ## 🟡 Pacman Contribution Graph
 
