@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sick-of-laptop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sick-of-laptop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <br>
@@ -76,14 +76,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sick-of-laptop&show_icons=true&locale=en&theme=dracula" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sick-of-laptop&show_icons=true&locale=en&layout=compact&theme=dracula" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sick-of-laptop&show_icons=true&locale=en&theme=dracula" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sick-of-laptop&show_icons=true&locale=en&layout=compact&theme=dracula" height="165" alt="Top languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sick-of-laptop&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Sick-of-laptop&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub streak graph" />
 </div>
 
 <br>
@@ -91,7 +91,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sick-of-laptop&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sick-of-laptop&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
 </div>
 
 <br>
@@ -99,7 +99,7 @@
 ## 🟡 Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sick-of-laptop/sick-of-laptop/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sick-of-laptop/sick-of-laptop/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/sick-of-laptop/sick-of-laptop/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sick-of-laptop/Sick-of-laptop/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sick-of-laptop/Sick-of-laptop/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sick-of-laptop/Sick-of-laptop/output/pacman-contribution-graph.svg">
 </picture>
