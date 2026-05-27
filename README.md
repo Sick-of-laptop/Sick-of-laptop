@@ -76,8 +76,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sick-of-laptop&show_icons=true&locale=en&theme=dracula" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sick-of-laptop&show_icons=true&locale=en&layout=compact&theme=dracula" height="165" alt="Top languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sick-of-laptop&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sick-of-laptop&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sick-of-laptop&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -91,10 +100,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sick-of-laptop&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sick-of-laptop&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
-
-<br>
 
 ## 🟡 Pacman Contribution Graph
 
