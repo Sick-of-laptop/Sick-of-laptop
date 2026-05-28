@@ -76,7 +76,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sick-of-laptop&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Sick-of-laptop/Sick-of-laptop/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Sick-of-laptop/Sick-of-laptop/stats-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 <br>
