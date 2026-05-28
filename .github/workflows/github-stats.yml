@@ -22,11 +22,19 @@ jobs:
 
       - name: Download GitHub stats card
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=Sick-of-laptop&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" -o dist/stats.svg
+          curl -fL --retry 3 --retry-delay 10 "https://github-readme-stats.vercel.app/api?username=Sick-of-laptop&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" -o dist/stats.svg
+          test -s dist/stats.svg
 
       - name: Download languages card
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Sick-of-laptop&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" -o dist/languages.svg
+          curl -fL --retry 3 --retry-delay 10 "https://github-readme-stats.vercel.app/api/top-langs/?username=Sick-of-laptop&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" -o dist/languages.svg
+          test -s dist/languages.svg
+
+      - name: Show generated files
+        run: |
+          ls -lh dist
+          head -n 5 dist/stats.svg
+          head -n 5 dist/languages.svg
 
       - name: Push cards to stats-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
